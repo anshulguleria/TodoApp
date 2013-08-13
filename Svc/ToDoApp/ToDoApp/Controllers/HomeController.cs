@@ -10,6 +10,7 @@ namespace ToDoApp.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Title = "TODO: StickNote";
             return View();
         }
     }

@@ -68,3 +68,27 @@ D:\Study\Ulquiorra\Svc\ToDoApp\ToDoApp\bin\zh-Hant\System.Spatial.resources.dll
 D:\Study\Ulquiorra\Svc\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojResolveAssemblyReference.cache
 D:\Study\Ulquiorra\Svc\ToDoApp\ToDoApp\obj\Debug\ToDoApp.dll
 D:\Study\Ulquiorra\Svc\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\ToDoApp.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\ToDoApp.pdb
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Net.Http.Formatting.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.Helpers.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.Http.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.Http.WebHost.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.Mvc.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.Razor.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.WebPages.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\Microsoft.Web.Infrastructure.xml
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Net.Http.Formatting.xml
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.Helpers.xml
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.Http.xml
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.Http.WebHost.xml
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.Mvc.xml
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.Razor.xml
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.WebPages.xml
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.WebPages.Deployment.xml
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\bin\System.Web.WebPages.Razor.xml
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\obj\Debug\ToDoApp.dll
+D:\Study\my projects\TodoApp\Svc\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb

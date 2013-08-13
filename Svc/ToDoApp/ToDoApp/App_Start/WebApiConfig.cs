@@ -10,9 +10,15 @@ namespace ToDoApp
         public static void Register(HttpConfiguration config)
         {
             config.Routes.MapHttpRoute(
-                name: "DefaultApi",
-                routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional }
+                name: "AccountApi",
+                routeTemplate: "{userName}/{action}/{id}",
+                defaults: new { controller = "Account", action = RouteParameter.Optional, id = RouteParameter.Optional }
+            );
+
+            config.Routes.MapHttpRoute(
+                name: "AdminApi",
+                routeTemplate: "Admin/{userName}",
+                defaults: new { controller = "Account", action = "Home", role = "Administrator", id = RouteParameter.Optional }
             );
             config.EnableSystemDiagnosticsTracing();
         }
